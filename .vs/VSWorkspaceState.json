@@ -1,0 +1,24 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug",
+      "out\\build\\arm64-Debug",
+      "out\\install\\arm64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\cpp",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\raylib",
+    "\\app\\src\\main\\java\\com\\raylib\\raymob",
+    "\\gradle",
+    "\\gradle\\wrapper"
+  ],
+  "SelectedNode": "\\app\\src",
+  "PreviewInSolutionExplorer": false
+}
